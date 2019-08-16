@@ -1,7 +1,7 @@
 # fbprophetbudgetdemo
 A simple project to get familiar with Facebook's fbprophet python api
 
-# Prerequisites and dependencies
+### Prerequisites and dependencies
 To make install as easy as possible, Anaconda is recommended.
 
 You will need pystan which uses a C compiler toolchain, which can be installed easily via conda
@@ -11,7 +11,7 @@ Install plotly with '$pip install plotly'
 
 For more info, visit https://facebook.github.io/prophet/docs/installation.html#installation-in-python
 
-# Instructions
+### Instructions
 Edit the csvgen.py file to create a new expenses.csv file
 
-make sure to open the prophet.ipynb with jupyter notebooks to visualize
+make sure to open the prophet.ipynb with jupyter notebooks to visualize with plotly
